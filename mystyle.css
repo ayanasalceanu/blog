@@ -1,0 +1,198 @@
+.menu{
+    margin-left: 400px;
+    margin-top: 20px;
+    color: #698cff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    display:inline-block;
+    font-weight:300px;
+}
+.menu:hover{
+    color:rgb(197, 140, 243);
+    font-weight:500px;
+}
+.title{
+    margin-left:750px;
+    width:800px;
+    color:rgb(41, 90, 196);
+    font-family:'Times New Roman', Times, serif;
+    margin-top:50px;
+    display: block;
+}
+.undertitle{
+    color:rgb(94, 76, 177);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    margin-left:800px;
+    display:block;
+}
+.subtitle{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:30px;
+    color:#adc1e4;
+    width: 700px;
+    margin-left:100px;
+}
+.text{
+    text-align: justify;
+    display:block;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(24, 9, 94);
+    font-size:20px;
+    margin-left:15px;
+
+}
+.img1{
+    margin-left: 0px;
+    width: 1850px;
+}
+.imgHDC{
+    width: 350px;
+}
+.imgFBM{
+    width: 350px;
+    vertical-align: baseline;
+}
+.reviewt{
+    margin-left:800px;
+    width:800px;
+    color:rgb(110, 139, 201);
+    font-family:'Times New Roman', Times, serif;
+    margin-top:50px;
+    display: block;
+}
+.numecarteR{
+    color:rgb(94, 76, 177);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    display:block;
+    text-align: center;
+}
+
+
+.cadranR{
+    margin-left: 40px;
+    width: 800px;
+    background-color:#ffffffc5;
+    display: inline-block;
+  border: 3px solid rgb(116, 167, 208);
+  padding: 1rem 1rem;
+  vertical-align: middle;
+  height: 650px;
+}
+
+.pozatext{
+    width:350px;
+    display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+  text-align: justify;
+}
+
+.headerblock{
+    background-color: #adc1e4;
+}
+
+.cartifav{
+    width:1848px
+}
+
+.goodreads{
+    background-color: #adc1e4;
+    height: 40;
+
+}
+.good{
+    margin-left: 800px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.headerrr{
+    background-color: #adc1e4;
+}
+.CADRAN1{
+    margin-left: 40px;
+    width: 800px;
+    background-color:#ffffffc5;
+    display: inline-block;
+  border: 3px solid rgb(116, 167, 208);
+  padding: 1rem 1rem;
+  vertical-align: middle;
+  height: 450px;
+}
+.imgindex{
+    width: 320px;
+}
+
+.cadran2{
+    display: inline-block;
+    
+  vertical-align: top;
+}
+.aa{
+    font-size: 50px;
+    color: #adc1e4;
+}
+.ab{
+    font-size: 30px;
+    color: #adc1e4;
+}
+.bb{
+    font-size: 30px;
+}
+.tabel{
+    background-color: #c8d5ffcb;
+    margin-left: auto;
+  margin-right: auto;
+  width:500px;
+}
+.DIV{
+    
+    width: 570px;
+
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    display: inline-block;
+    
+}
+.ac{
+    width:550px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.uwu{
+    background-color: #adc1e4;
+    height:40px;
+}
+.uwuu{
+    color: #ffffff;
+    text-align: center;
+}
+.submit{
+    background-color: #abbfff;
+    color: #ffffff;
+    border-radius: 1px;
+    border-color: #ffffff;
+    font-size: 35px;
+
+}
+.label{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:#698cff; ;
+    background-color: #ffffff;
+}
+.input1{
+    font-size: 35px;
+    background-color: #c1cef8d3;
+    color: #ffffff;
+    border-radius: 3px;
+    border-color: #698cff;
+    
+}
+.CENTRU{
+    text-align: center;
+}
